@@ -1,0 +1,20 @@
+body{
+	background-color: #ffe4c4;
+}
+
+img{
+	width: 30%;
+	height: 400px;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	color: #ff00ff;
+	font-family: 'Inconsolata', monospace;
+	margin-left: 1.66%;
+	font-size: 40px;
+	border-bottom: 2px solid red;
+	width: 30%;
+	padding-bottom: 4px;
+}
