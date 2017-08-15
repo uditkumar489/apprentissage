@@ -1,0 +1,26 @@
+body{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 10px;
+	border: 15px solid #87CEEB;
+}
+
+h3{
+	font-family: 'Aldrich', sans-serif;
+	color: 	#000080;
+}
+
+p{
+	font-family: 'Lateef', cursive;
+}
+
+.lb{
+	border-left: 6px solid #4682B4;
+	padding-left: 4px;
+}
+
+h2{
+	font-family: 'Alegreya SC', serif;
+	color: #800080;
+}
